@@ -4,13 +4,16 @@ To find (a) average number of materials in the system (b) average number of mate
 
 ## Software required :
 Visual components and Python
+
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
+
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
+
 
 ## Program
 ```
@@ -45,9 +48,18 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-```
-## Output :
-![image](output4.png)
 
-## Result : 
-thus the program Multiple server with infinite capacity - (M/M/c):(oo/FIFO) was verified by using python program
+
+
+```
+
+
+## Output :
+<img width="720" height="365" alt="image" src="https://github.com/user-attachments/assets/b53df9ab-8cf9-40f4-92d4-91da739b5482" />
+
+
+## Result :
+
+Therfore,the Multiple server with infinite capacity is verified sucessfully 
+
+
